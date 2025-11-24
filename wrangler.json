@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "last-fm-milestones-worker",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "540ca249-42d0-4260-9bf0-cf6551bab119",
+      "database_name": "last-fm-milestones-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
